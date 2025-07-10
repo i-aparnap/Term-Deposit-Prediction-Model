@@ -16,6 +16,7 @@ Predict whether a client will subscribe to a term deposit based on bank marketin
 - Gradient Boosting Classifier
 - K-Nearest Neighbors (KNN)
 - RandomizedSearchCV
+  
 🔍 **Why these models?**
 - Tried a mix of linear, tree-based, ensemble, and neural models to compare performance on a tabular classification task.
 
