@@ -60,7 +60,7 @@ The objective of this project is to predict whether a customer will subscribe to
 ## 📂 Repository Contents
 
 - `final_project.ipynb` – Full project notebook with EDA, preprocessing, modeling, and evaluation.
-- `cleaned_bank_data.csv` – Final cleaned dataset used for training.
+- `bank-full.csv` –  raw  dataset used for training.
 - `final_model.pkl` – Saved best model (Random Forest) using `joblib`.
 - `README.md` – Project documentation file.
 
